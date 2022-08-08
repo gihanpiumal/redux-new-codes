@@ -1,0 +1,1 @@
+export const FETCH_ALL_USER_ROLES = "FETCH_ALL_USER_ROLES"
